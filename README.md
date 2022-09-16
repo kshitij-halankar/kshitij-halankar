@@ -1,3 +1,4 @@
+![alt text](https://github.com/kshitij-halankar/kshitij-halankar/blob/main/profile/git_portfolio.png)
 ### Hi there 👋
 ![alt text](https://github.com/kshitij-halankar/kshitij-halankar/blob/main/profile-3d-contrib/profile-green-animate.svg?raw=true)
 <!--
