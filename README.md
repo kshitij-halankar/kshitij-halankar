@@ -39,6 +39,28 @@
 
 ![alt text](https://github.com/kshitij-halankar/kshitij-halankar/blob/main/profile-3d-contrib/profile-green-animate.svg?raw=true)
 
+---
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kshitij-halankar&show_icons=true)
+---
+### 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-halankar&theme=blue-green)
+---
+<!--
+### Contributors
+![GitHub Contributors Image](https://contrib.rocks/image?repo=kshitij-halankar/Zomaze)
+-->
+---
+### Here's a developer joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
+---
+### GitHub Profile Views
+![Profile View Counter](https://komarev.com/ghpvc/?username=kshitij-halankar)
+---
+<!--
+### GitHub Profile Hits
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/kshitij-halankar)
+-->
 <!--
 **kshitij-halankar/kshitij-halankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
