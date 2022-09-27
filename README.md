@@ -60,7 +60,7 @@
 <!--
 ### GitHub Profile Hits
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/kshitij-halankar)
-just earning yolo badge!
+just earning yolo badge! attempt 2
 -->
 <!--
 **kshitij-halankar/kshitij-halankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
