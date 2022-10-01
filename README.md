@@ -43,14 +43,26 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kshitij-halankar&show_icons=true)
 ---
-### 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-halankar&theme=blue-green)
+<!-- ###  -->
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-halankar&theme=blue-green) -->
 ---
+
+<!-- <details>	 -->
+<!--   <summary><b>⚡ Github Stats</b></summary> -->
+<!--   <br /> -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitij-halankar&theme=dracula" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshitij-halankar&theme=dracula"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitij-halankar&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitij-halankar&theme=dracula"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kshitij-halankar&theme=dracula"/>
+<!-- </details> -->
+
 <!--
 ### Contributors
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=kshitij-halankar/Zomaze)
 -->
+
 ---
+
 ![Snake eating my contributions](https://github.com/kshitij-halankar/kshitij-halankar/blob/output/github-contribution-grid-snake.gif)
 ---
 ### Here's a developer joke
