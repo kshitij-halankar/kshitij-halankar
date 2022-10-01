@@ -51,6 +51,8 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=kshitij-halankar/Zomaze)
 -->
 ---
+![Snake eating my contributions](https://github.com/kshitij-halankar/kshitij-halankar/blob/output/github-contribution-grid-snake.gif)
+---
 ### Here's a developer joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
