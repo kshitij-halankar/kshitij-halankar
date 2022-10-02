@@ -37,10 +37,10 @@
 
 ---
 
-![alt text](https://github.com/kshitij-halankar/kshitij-halankar/blob/main/profile-3d-contrib/profile-green-animate.svg?raw=true)
+<p align="center">
+   <img src="https://github.com/kshitij-halankar/kshitij-halankar/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
 
-
----
 <!-- ###  -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-halankar&theme=blue-green) -->
 ---
