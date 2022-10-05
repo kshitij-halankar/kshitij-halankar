@@ -1,7 +1,7 @@
 ---
 ![alt text](https://github.com/kshitij-halankar/kshitij-halankar/blob/main/profile/git_portfolio.png)
 ---
-### Hi there 👋 I'm a Software Engineer and Cybersecurity professional based in Canada
+### Hi there 👋 I'm a Software Engineer and Cybersecurity Enthusiast based in Canada
 ---
 - 📜 I'm currently studying Master of Applied Computing at University of Windsor
 - 🔭 I’m currently working on [TravelR](https://github.com/kshitij-halankar/TravelR)
