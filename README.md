@@ -52,7 +52,6 @@
 
 
 ### Github Stats⚡
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitij-halankar&theme=radical)
 
 ![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kshitij-halankar&theme=radical)
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitij-halankar&theme=radical)
