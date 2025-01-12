@@ -1,13 +1,13 @@
 ---
 ![alt text](https://github.com/kshitij-halankar/kshitij-halankar/blob/main/profile/git_portfolio.png)
 ---
-### Hi there 👋 I'm a Full Stack Developer and CyberSecurity Enthusiast based in Canada
+### Hi there 👋 I'm a Software Developer and CyberSecurity Enthusiast based in Canada
 ---
-- 📜 I recently completed my Master of Applied Computing at University of Windsor
-- 🔭 I’m currently working on [TravelR](https://github.com/kshitij-halankar/TravelR)
-- 🌱 I’m currently learning [Angular](https://github.com/kshitij-halankar/traveller)
+- 📜 I completed my Master of Applied Computing at University of Windsor
+- 🔭 I’m currently working on [Journal](https://github.com/kshitij-halankar/JournalApp)
+- 🌱 I’m currently learning [Android](https://github.com/kshitij-halankar/JournalApp)
 - ❤️ I love solving problems on Leetcode: [CyberWarper](https://leetcode.com/cyberwarper)
-- 👯 I love collaborate on cybersecurity projects
+- 👯 I love to collaborate on cybersecurity projects
 - 💬 Ask me about webapp development and security
 - 📫 How to reach me: [kshitij-halankar](https://www.linkedin.com/in/kshitij-halankar)
 ---
